@@ -7,7 +7,7 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
-header_nav {
+header.nav {
   float: right;
 }
 
