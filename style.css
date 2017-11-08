@@ -2,6 +2,15 @@
   font-family: "Helvetica", "Arial", "san-serif";
 }
 
+header {
+  height: 100px;
+  bottom-border: 1px solid #cccccc;
+}
+
+header_nav {
+  float: right;
+}
+
 body {
   padding: 0 30px 0 30px;
 }
