@@ -7,6 +7,15 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
+header h3 {
+  float: left;
+  font-size: 30px;
+}
+
+header h3 a {
+  
+}
+
 header nav {
   float: right;
 }
